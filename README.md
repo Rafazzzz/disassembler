@@ -1,4 +1,4 @@
-# TON VM Disassembler  
+            result.append(&mut shard.collect());# TON VM Disassembler  
 
 > Provides Fift-like code from smart contract source   
 
